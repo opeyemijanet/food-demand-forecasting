@@ -1,0 +1,748 @@
+{
+  "status": "success",
+  "summary": {
+    "critical_items": 6,
+    "warning_items": 10,
+    "ok_items": 12,
+    "expired_items": 11,
+    "skipped_items": 67,
+    "total_value_at_risk": 47476575.6,
+    "total_expired_value": 31889141.73
+  },
+  "critical_items": [
+    {
+      "item_id": "1289c6e7-bbfc-4fe5-b573-8d313ea283ed",
+      "item_name": "Mama Gold Malt 1L",
+      "quantity": 160.12,
+      "unit": "bags",
+      "days_until_expiry": 6,
+      "expiry_date": "2026-02-26",
+      "value_at_risk": 3423868.38,
+      "recommendation": "Offer 20-30% discount to clear stock immediately. Contact regular customers directly. Consider donation if unsellable."
+    },
+    {
+      "item_id": "c285d6b0-3fd2-43d2-ab40-37b4431f5299",
+      "item_name": "Golden Penny Oats 5kg",
+      "quantity": 13.7,
+      "unit": "cartons",
+      "days_until_expiry": 2,
+      "expiry_date": "2026-02-22",
+      "value_at_risk": 173820.94,
+      "recommendation": "Offer 20-30% discount to clear stock immediately. Contact regular customers directly. Consider donation if unsellable."
+    },
+    {
+      "item_id": "d74fbde5-6572-4db5-a577-96c676bc2377",
+      "item_name": "Dangote Groundnut Oil 1kg",
+      "quantity": 76.51,
+      "unit": "pieces",
+      "days_until_expiry": 6,
+      "expiry_date": "2026-02-26",
+      "value_at_risk": 1194087.74,
+      "recommendation": "Offer 20-30% discount to clear stock immediately. Contact regular customers directly. Consider donation if unsellable."
+    },
+    {
+      "item_id": "4d1aed74-1cee-4b34-af04-ef9cc2804c7e",
+      "item_name": "Power Oil Groundnut Oil 1kg",
+      "quantity": 31.41,
+      "unit": "liters",
+      "days_until_expiry": 5,
+      "expiry_date": "2026-02-25",
+      "value_at_risk": 1087535.76,
+      "recommendation": "Offer 20-30% discount to clear stock immediately. Contact regular customers directly. Consider donation if unsellable."
+    },
+    {
+      "item_id": "24ab1388-cd99-4f8f-9f98-977f9f33620e",
+      "item_name": "Dangote Groundnut Oil 1kg",
+      "quantity": 86.79,
+      "unit": "bundles",
+      "days_until_expiry": 1,
+      "expiry_date": "2026-02-21",
+      "value_at_risk": 1329932.64,
+      "recommendation": "Offer 20-30% discount to clear stock immediately. Contact regular customers directly. Consider donation if unsellable."
+    },
+    {
+      "item_id": "b95c4acb-2516-4567-8aa4-2e52e8f4a42b",
+      "item_name": "Honeywell Pepper 1kg",
+      "quantity": 176.67,
+      "unit": "liters",
+      "days_until_expiry": 3,
+      "expiry_date": "2026-02-23",
+      "value_at_risk": 5877098.92,
+      "recommendation": "Offer 20-30% discount to clear stock immediately. Contact regular customers directly. Consider donation if unsellable."
+    }
+  ],
+  "warning_items": [
+    {
+      "item_id": "eff43d4d-4396-4449-8dea-bb8b066d99d8",
+      "item_name": "Power Oil Water 1L",
+      "quantity": 186.94,
+      "unit": "liters",
+      "days_until_expiry": 8,
+      "expiry_date": "2026-02-28",
+      "value_at_risk": 1304555.18,
+      "recommendation": "Feature prominently in store. Include in meal combos or special offers. Consider freezing or further processing."
+    },
+    {
+      "item_id": "ea4143ff-95d8-4cbc-b1b6-3b0fe13b0e4c",
+      "item_name": "Devon Kings Knorr 500g",
+      "quantity": 60.77,
+      "unit": "liters",
+      "days_until_expiry": 8,
+      "expiry_date": "2026-02-28",
+      "value_at_risk": 2062749.53,
+      "recommendation": "Feature prominently in store. Include in meal combos or special offers. Consider freezing or further processing."
+    },
+    {
+      "item_id": "8fa7bc28-c3a7-4ec7-85f9-2e9a6ededeed",
+      "item_name": "Dangote Margarine 25kg",
+      "quantity": 87.17,
+      "unit": "bags",
+      "days_until_expiry": 9,
+      "expiry_date": "2026-03-01",
+      "value_at_risk": 4275317.16,
+      "recommendation": "Feature prominently in store. Include in meal combos or special offers. Consider freezing or further processing."
+    },
+    {
+      "item_id": "8edeae74-9d01-4a56-80b8-762dd7b62ada",
+      "item_name": "Devon Kings Semovita 2L",
+      "quantity": 132.3,
+      "unit": "liters",
+      "days_until_expiry": 8,
+      "expiry_date": "2026-02-28",
+      "value_at_risk": 757307.69,
+      "recommendation": "Feature prominently in store. Include in meal combos or special offers. Consider freezing or further processing."
+    },
+    {
+      "item_id": "c421645c-7dbb-4f43-bfe3-1cc758f11eb7",
+      "item_name": "Dangote Pepper 5L",
+      "quantity": 20.52,
+      "unit": "pieces",
+      "days_until_expiry": 10,
+      "expiry_date": "2026-03-02",
+      "value_at_risk": 197525.52,
+      "recommendation": "Feature prominently in store. Include in meal combos or special offers. Consider freezing or further processing."
+    },
+    {
+      "item_id": "b0be393e-80fb-4883-959f-1d7ed2a24b11",
+      "item_name": "Devon Kings Pepper 25kg",
+      "quantity": 164.11,
+      "unit": "cartons",
+      "days_until_expiry": 10,
+      "expiry_date": "2026-03-02",
+      "value_at_risk": 4016575.84,
+      "recommendation": "Feature prominently in store. Include in meal combos or special offers. Consider freezing or further processing."
+    },
+    {
+      "item_id": "aee8e3d4-444a-4a65-a42c-614614b211f2",
+      "item_name": "Mama Gold Tomato Paste 500g",
+      "quantity": 52.89,
+      "unit": "bundles",
+      "days_until_expiry": 7,
+      "expiry_date": "2026-02-27",
+      "value_at_risk": 2488180.96,
+      "recommendation": "Feature prominently in store. Include in meal combos or special offers. Consider freezing or further processing."
+    },
+    {
+      "item_id": "5abd6650-7058-4a3d-b576-25c6f22727df",
+      "item_name": "Golden Penny Chicken 10kg",
+      "quantity": 177.45,
+      "unit": "cartons",
+      "days_until_expiry": 8,
+      "expiry_date": "2026-02-28",
+      "value_at_risk": 6608649.68,
+      "recommendation": "Feature prominently in store. Include in meal combos or special offers. Consider freezing or further processing."
+    },
+    {
+      "item_id": "aab88a45-f126-4021-834c-e1e0f7aed8ed",
+      "item_name": "Devon Kings Water 2L",
+      "quantity": 187.81,
+      "unit": "liters",
+      "days_until_expiry": 8,
+      "expiry_date": "2026-02-28",
+      "value_at_risk": 8930831.27,
+      "recommendation": "Feature prominently in store. Include in meal combos or special offers. Consider freezing or further processing."
+    },
+    {
+      "item_id": "7d6ad85a-e777-45a9-add7-8ab547a8aaee",
+      "item_name": "Golden Penny Groundnut Oil 2L",
+      "quantity": 172.35,
+      "unit": "cartons",
+      "days_until_expiry": 10,
+      "expiry_date": "2026-03-02",
+      "value_at_risk": 3748538.39,
+      "recommendation": "Feature prominently in store. Include in meal combos or special offers. Consider freezing or further processing."
+    }
+  ],
+  "expired_items": [
+    {
+      "item_id": "585e4813-4d9f-4102-91bf-692b7a210339",
+      "item_name": "Golden Penny Beans 500g",
+      "quantity": 171.93,
+      "unit": "cartons",
+      "days_until_expiry": -3,
+      "expiry_date": "2026-02-17",
+      "value_at_risk": 1212010.22,
+      "recommendation": "Item has EXPIRED. Remove from stock immediately and do not sell."
+    },
+    {
+      "item_id": "af4b67ee-593a-43f4-b6b0-caa04e82b691",
+      "item_name": "Mama Gold Fish 5L",
+      "quantity": 30.96,
+      "unit": "kg",
+      "days_until_expiry": -4,
+      "expiry_date": "2026-02-16",
+      "value_at_risk": 910743.82,
+      "recommendation": "Item has EXPIRED. Remove from stock immediately and do not sell."
+    },
+    {
+      "item_id": "65b27d82-87e8-4578-b60e-42903f26b7cd",
+      "item_name": "Mama Gold Malt 1kg",
+      "quantity": 14.65,
+      "unit": "bags",
+      "days_until_expiry": -2,
+      "expiry_date": "2026-02-18",
+      "value_at_risk": 275296.79,
+      "recommendation": "Item has EXPIRED. Remove from stock immediately and do not sell."
+    },
+    {
+      "item_id": "f95e3b7d-e430-48cf-af85-835fd1b1d480",
+      "item_name": "Honeywell Milk 5kg",
+      "quantity": 85.96,
+      "unit": "bundles",
+      "days_until_expiry": -2,
+      "expiry_date": "2026-02-18",
+      "value_at_risk": 1104733.85,
+      "recommendation": "Item has EXPIRED. Remove from stock immediately and do not sell."
+    },
+    {
+      "item_id": "098ed71c-16da-44d7-bb93-3bd97f50dada",
+      "item_name": "Power Oil Cabbage 5kg",
+      "quantity": 185.15,
+      "unit": "bags",
+      "days_until_expiry": -3,
+      "expiry_date": "2026-02-17",
+      "value_at_risk": 6843132.89,
+      "recommendation": "Item has EXPIRED. Remove from stock immediately and do not sell."
+    },
+    {
+      "item_id": "8b9465a8-b1f5-4bbe-b9ee-6af76cbc7a35",
+      "item_name": "Honeywell Soft Drinks 2L",
+      "quantity": 138.73,
+      "unit": "pieces",
+      "days_until_expiry": -1,
+      "expiry_date": "2026-02-19",
+      "value_at_risk": 1802621.55,
+      "recommendation": "Item has EXPIRED. Remove from stock immediately and do not sell."
+    },
+    {
+      "item_id": "f2d9aa5e-5160-486a-9444-679ec8321101",
+      "item_name": "Devon Kings Garri 5L",
+      "quantity": 82.65,
+      "unit": "bags",
+      "days_until_expiry": -2,
+      "expiry_date": "2026-02-18",
+      "value_at_risk": 1133898.49,
+      "recommendation": "Item has EXPIRED. Remove from stock immediately and do not sell."
+    },
+    {
+      "item_id": "67212399-2ec9-4fda-ae9e-ba2db5aad877",
+      "item_name": "Honeywell Carrots 10kg",
+      "quantity": 196.15,
+      "unit": "pieces",
+      "days_until_expiry": -1,
+      "expiry_date": "2026-02-19",
+      "value_at_risk": 7328734.8,
+      "recommendation": "Item has EXPIRED. Remove from stock immediately and do not sell."
+    },
+    {
+      "item_id": "2d1d3222-77c5-4b9b-bff3-992bae0179bd",
+      "item_name": "Honeywell Semovita 1L",
+      "quantity": 86.14,
+      "unit": "kg",
+      "days_until_expiry": -1,
+      "expiry_date": "2026-02-19",
+      "value_at_risk": 2641900.02,
+      "recommendation": "Item has EXPIRED. Remove from stock immediately and do not sell."
+    },
+    {
+      "item_id": "dcb5d833-a429-4f52-9127-aae7e7adf008",
+      "item_name": "Power Oil Water 5L",
+      "quantity": 14.7,
+      "unit": "pieces",
+      "days_until_expiry": 0,
+      "expiry_date": "2026-02-20",
+      "value_at_risk": 461634.68,
+      "recommendation": "Item has EXPIRED. Remove from stock immediately and do not sell."
+    },
+    {
+      "item_id": "3692a614-4786-4341-b7ac-75cb1b4f3bfe",
+      "item_name": "Mama Gold Curry 500g",
+      "quantity": 193.24,
+      "unit": "liters",
+      "days_until_expiry": 0,
+      "expiry_date": "2026-02-20",
+      "value_at_risk": 8174434.62,
+      "recommendation": "Item has EXPIRED. Remove from stock immediately and do not sell."
+    }
+  ],
+  "ok_items": [
+    {
+      "item_id": "89871e47-13d8-4bb0-9eb7-5a67de6757a9",
+      "item_name": "Dangote Energy Drink 25kg",
+      "quantity": 56.35,
+      "unit": "liters",
+      "days_until_expiry": 44,
+      "expiry_date": "2026-04-05",
+      "value_at_risk": 728633.68,
+      "recommendation": "Monitor regularly \u2014 stock is within safe range."
+    },
+    {
+      "item_id": "10e9467a-0caa-4bdb-8fa9-56eec6dafbd8",
+      "item_name": "Golden Penny Pepper 500g",
+      "quantity": 66.71,
+      "unit": "bundles",
+      "days_until_expiry": 67,
+      "expiry_date": "2026-04-28",
+      "value_at_risk": 1445639.05,
+      "recommendation": "Monitor regularly \u2014 stock is within safe range."
+    },
+    {
+      "item_id": "7c67bab6-2d1e-45f9-9dd6-f73c262e3e5e",
+      "item_name": "Mama Gold Pepper 1L",
+      "quantity": 80.48,
+      "unit": "liters",
+      "days_until_expiry": 64,
+      "expiry_date": "2026-04-25",
+      "value_at_risk": 2738512.28,
+      "recommendation": "Monitor regularly \u2014 stock is within safe range."
+    },
+    {
+      "item_id": "e492e3e5-de7f-4f09-abe4-818d97e9e8e0",
+      "item_name": "Devon Kings Chicken 10kg",
+      "quantity": 183.49,
+      "unit": "cartons",
+      "days_until_expiry": 78,
+      "expiry_date": "2026-05-09",
+      "value_at_risk": 2973684.81,
+      "recommendation": "Monitor regularly \u2014 stock is within safe range."
+    },
+    {
+      "item_id": "858bf7a1-052d-4734-a85f-be635fc9a0cc",
+      "item_name": "Honeywell Turkey 5L",
+      "quantity": 15.5,
+      "unit": "kg",
+      "days_until_expiry": 51,
+      "expiry_date": "2026-04-12",
+      "value_at_risk": 113917.56,
+      "recommendation": "Monitor regularly \u2014 stock is within safe range."
+    },
+    {
+      "item_id": "7a32b7fb-71ee-4a6e-82b7-49b204d06347",
+      "item_name": "Power Oil Wheat 1L",
+      "quantity": 120.74,
+      "unit": "kg",
+      "days_until_expiry": 45,
+      "expiry_date": "2026-04-06",
+      "value_at_risk": 4621190.69,
+      "recommendation": "Monitor regularly \u2014 stock is within safe range."
+    },
+    {
+      "item_id": "ee24ef9c-c6a4-4594-bc60-d16deedde390",
+      "item_name": "Devon Kings Chicken 1L",
+      "quantity": 183.05,
+      "unit": "liters",
+      "days_until_expiry": 49,
+      "expiry_date": "2026-04-10",
+      "value_at_risk": 1148722.95,
+      "recommendation": "Monitor regularly \u2014 stock is within safe range."
+    },
+    {
+      "item_id": "00f7edf4-ceef-49b6-ad1d-514a0fd6cbda",
+      "item_name": "Devon Kings Water 10kg",
+      "quantity": 189.08,
+      "unit": "kg",
+      "days_until_expiry": 69,
+      "expiry_date": "2026-04-30",
+      "value_at_risk": 663833.41,
+      "recommendation": "Monitor regularly \u2014 stock is within safe range."
+    },
+    {
+      "item_id": "c1f7c32e-487e-4edc-98ea-ffd47288e0da",
+      "item_name": "Devon Kings Juice 1L",
+      "quantity": 22.98,
+      "unit": "cartons",
+      "days_until_expiry": 82,
+      "expiry_date": "2026-05-13",
+      "value_at_risk": 779282.82,
+      "recommendation": "Monitor regularly \u2014 stock is within safe range."
+    },
+    {
+      "item_id": "68c12ab6-5993-4c3c-beba-2ca632e7c076",
+      "item_name": "Dangote Pepper 1kg",
+      "quantity": 69.03,
+      "unit": "pieces",
+      "days_until_expiry": 78,
+      "expiry_date": "2026-05-09",
+      "value_at_risk": 189705.48,
+      "recommendation": "Monitor regularly \u2014 stock is within safe range."
+    },
+    {
+      "item_id": "1f17d3f5-0b75-443f-a989-32ff8729c110",
+      "item_name": "Dangote Groundnut Oil 5kg",
+      "quantity": 152.83,
+      "unit": "liters",
+      "days_until_expiry": 74,
+      "expiry_date": "2026-05-05",
+      "value_at_risk": 1405560.7,
+      "recommendation": "Monitor regularly \u2014 stock is within safe range."
+    },
+    {
+      "item_id": "b53e2990-7268-4dea-b726-79ff6e4a4348",
+      "item_name": "Honeywell Soft Drinks 10kg",
+      "quantity": 34.7,
+      "unit": "liters",
+      "days_until_expiry": 33,
+      "expiry_date": "2026-03-25",
+      "value_at_risk": 814259.1,
+      "recommendation": "Monitor regularly \u2014 stock is within safe range."
+    }
+  ],
+  "skipped_items": [
+    {
+      "item_id": "c005b18e-14bf-4f63-a5b1-0b00e0c64d57",
+      "item_name": "Devon Kings Onions 10kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "f85c0a0e-c6ad-4a11-8760-cc7ca06d8db1",
+      "item_name": "Dangote Soft Drinks 1kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "a6d5871f-eeab-42f2-af9b-2192fb4c97a6",
+      "item_name": "Mama Gold Margarine 10kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "f4891bec-f72e-4d3a-8587-a401c914cf38",
+      "item_name": "Devon Kings Water 1kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "8c58577f-2545-448b-bc81-2d2bc3f753ca",
+      "item_name": "Mama Gold Carrots 10kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "74f26a38-291e-4608-9d4f-f01e52a1442c",
+      "item_name": "Power Oil Salt 500g",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "5a839aea-83b2-42e9-84a5-9c4f95265d49",
+      "item_name": "Honeywell Margarine 25kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "5786d89b-30a5-46cc-8529-90becc3ad7ec",
+      "item_name": "Golden Penny Tomato Paste 25kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "a047a8a1-2f47-4f16-894e-2e77929e227d",
+      "item_name": "Devon Kings Baked Beans 1kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "1ca54d14-9bdb-4015-88c2-6acfb6d21dcf",
+      "item_name": "Mama Gold Groundnut Oil 1kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "ffd34a3c-79e0-462a-8def-b25099c6227f",
+      "item_name": "Honeywell Milk 1L",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "c85628d4-2b03-45ab-a276-8617cd286ada",
+      "item_name": "Dangote Rice 5L",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "37b49c17-e9d0-4ccd-908d-854ef366af66",
+      "item_name": "Mama Gold Carrots 10kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "3906cb32-268d-4c1f-aeaa-d440fdd04674",
+      "item_name": "Mama Gold Cabbage 5kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "7df8b399-6927-44ef-8f57-e1f5e2649d73",
+      "item_name": "Golden Penny Cheese 2L",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "bb694c52-ed5b-4864-a969-a7d53573919b",
+      "item_name": "Devon Kings Maize 2L",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "0361a87e-91b5-4d54-a79f-90a27e0c4436",
+      "item_name": "Power Oil Rice 2L",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "f7d30e42-93b1-454f-b7a2-c5c61a7c6368",
+      "item_name": "Mama Gold Corned Beef 25kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "feb36218-c949-4921-96ae-9b34254f3dfc",
+      "item_name": "Dangote Semovita 1kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "5bbccd7b-0296-4273-b451-5356d60b7952",
+      "item_name": "Dangote Cheese 5L",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "06dd14f1-577a-47e1-bc59-97019c8ee645",
+      "item_name": "Honeywell Soft Drinks 1kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "e21673e9-e088-444d-9179-7c90578810b6",
+      "item_name": "Devon Kings Vegetable Oil 10kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "7d703140-d064-48aa-8627-008520613e20",
+      "item_name": "Mama Gold Turkey 5kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "be3d5917-eb53-4345-b10e-51cc319ae2c8",
+      "item_name": "Honeywell Cabbage 1L",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "c0568662-6583-48dd-8b99-6be7d6e0e810",
+      "item_name": "Honeywell Beef 500g",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "1c1d3efc-b386-494c-b46d-b09fbc78bac0",
+      "item_name": "Golden Penny Salt 10kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "299e92ff-9c76-4cf4-9a67-4934594000d0",
+      "item_name": "Golden Penny Chicken 25kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "cdf526b2-755a-415f-bb6e-617e68bf2105",
+      "item_name": "Power Oil Baked Beans 1L",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "cee9a4cf-69f6-4a5a-add9-ef70e62e53b7",
+      "item_name": "Power Oil Energy Drink 5kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "4788ceed-d33e-4718-b55f-041c2560898d",
+      "item_name": "Honeywell Soft Drinks 10kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "3388d100-d816-4218-822e-294294a6a414",
+      "item_name": "Golden Penny Chicken 2L",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "5fbac1d9-4cb9-4da5-8449-6a48b2317194",
+      "item_name": "Golden Penny Soft Drinks 2L",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "a005f209-6285-42bf-af87-ad4deef5c6e1",
+      "item_name": "Devon Kings Fish 2L",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "59e6bb16-cc44-4b8d-92e8-644e16b43d4a",
+      "item_name": "Power Oil Groundnut Oil 25kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "3c2783f2-2928-4292-bbff-6006dd74aae7",
+      "item_name": "Golden Penny Margarine 10kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "0cd38905-977f-4eec-9807-340e2dd4b0d3",
+      "item_name": "Golden Penny Knorr 5L",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "3f39e8d0-cdf5-431e-b504-3669b983d0ef",
+      "item_name": "Dangote Fish 2L",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "ad275ddf-a048-4655-9f35-485f6bd877a7",
+      "item_name": "Golden Penny Chicken 10kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "ad0cc351-eaea-4085-ab16-16e4bc1d5cc5",
+      "item_name": "Golden Penny Water 5kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "dc0accee-b036-4f7b-b35b-433354cb1a82",
+      "item_name": "Devon Kings Margarine 5kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "89162386-9e30-4878-a371-f6b9ede07f27",
+      "item_name": "Golden Penny Butter 5kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "ceebf982-bd02-44c6-9ffb-169bfcb287e4",
+      "item_name": "Power Oil Chicken 5kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "c3e000e0-5ff6-445b-b6fa-5205e670bee6",
+      "item_name": "Power Oil Juice 2L",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "ab4bbf15-d7eb-403a-b6e9-7331c6a947f6",
+      "item_name": "Devon Kings Margarine 5kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "41292f76-c7df-420b-9855-7c7817565feb",
+      "item_name": "Devon Kings Pepper 5kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "9b17b1e1-074b-4b4a-8026-fe24af0e8bae",
+      "item_name": "Mama Gold Thyme 5L",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "52872597-51fc-4413-8e66-f952f60b9919",
+      "item_name": "Golden Penny Pepper 500g",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "9ade5476-66a6-461e-b706-32ade195eee0",
+      "item_name": "Power Oil Sardines 10kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "a5d87fa4-575f-42f8-bfd6-9abdb3a8ee86",
+      "item_name": "Honeywell Malt 5L",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "a1b43d81-2a01-4820-bc53-6e037c212273",
+      "item_name": "Dangote Onions 5kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "a4cf7df2-d09b-4d97-97f7-405df021b497",
+      "item_name": "Power Oil Fish 1L",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "cc73ff5a-bc45-4025-9b22-2b0438802941",
+      "item_name": "Golden Penny Corned Beef 2L",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "2441f9f0-58a6-4905-8d2f-85bdfee6407b",
+      "item_name": "Honeywell Rice 10kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "e06ea4a7-19fa-4e91-84d9-9efa786eeb17",
+      "item_name": "Honeywell Palm Oil 5kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "a70d1ccc-bcdc-493c-adf3-eeea30782240",
+      "item_name": "Golden Penny Thyme 500g",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "03f71b77-1c65-44b8-a409-54d116b56b42",
+      "item_name": "Power Oil Beans 2L",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "c508afc3-e674-4326-aede-b5bfef4ecaa8",
+      "item_name": "Devon Kings Cabbage 25kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "dd138e75-55b6-45b7-841d-0f67af7304b5",
+      "item_name": "Mama Gold Margarine 10kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "36acc1f8-edfd-4332-b943-f24bed3c81a8",
+      "item_name": "Honeywell Corned Beef 5kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "f7c6598c-2f20-43f4-9a0d-80d437ce3d80",
+      "item_name": "Devon Kings Sardines 500g",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "8bb83a29-9ab7-4546-b029-e7d4f319a7fc",
+      "item_name": "Honeywell Tomatoes 25kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "f368ac42-6109-4810-968a-772c99e819c9",
+      "item_name": "Dangote Curry 25kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "cb82afbb-219d-4451-9745-80cbd192fad6",
+      "item_name": "Dangote Tomatoes 500g",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "88fc9b3a-8a27-433f-92a6-39deee0d6839",
+      "item_name": "Golden Penny Cabbage 2L",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "1d74a28e-98fa-43cf-a9b4-88573c1aee01",
+      "item_name": "Devon Kings Energy Drink 10kg",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "0eb0ad36-5ada-4944-8050-a0856d9d3706",
+      "item_name": "Dangote Corned Beef 5L",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    },
+    {
+      "item_id": "1dc6b0cf-875f-42fc-9493-3de678df99aa",
+      "item_name": "Mama Gold Juice 5L",
+      "reason": "No expiry date provided \u2014 item excluded from expiry tracking"
+    }
+  ],
+  "timestamp": "2026-02-19T00:44:03.193797"
+}
